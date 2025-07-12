@@ -1,8 +1,8 @@
 {
-    "name": "ZeroNosTest Ext",
+    "name": "demoRepo",
     "description": "Cloudstream extension Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://github.com/hung319/extensions/raw/refs/heads/builds/plugins.json"
+      "https://github.com/digitalus00/demoRepo/raw/refs/heads/builds/plugins.json"
     ]
 }
