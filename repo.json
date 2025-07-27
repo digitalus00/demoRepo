@@ -3,6 +3,6 @@
     "description": "Cloudstream extension Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://github.com/digitalus00/demoRepo/raw/refs/heads/builds/plugins.json"
+      "https://github.com/digitalus00/demoRepo/builds/plugins.json"
     ]
 }
